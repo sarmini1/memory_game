@@ -1,0 +1,28 @@
+body {
+    align-content: center;
+    text-align: center;
+    background-color: rgb(217, 250, 208);
+  }
+  
+  h1 {
+    font-family: 'Kiwi Maru', serif;
+  }
+  
+  #container div {
+    display: inline-block;
+    background: rgb(255, 255, 255);
+    border-radius: 25px;
+    text-align: center;
+    align-content: center;
+    width: auto;
+    max-width: 50%;
+    border: 2px solid black;
+  }
+  
+  #game div {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    display: inline-block;
+  } 
